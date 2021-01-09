@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# This script automates archiving a users home directory
-# and then deleting the user
+# This script automates disabling, deleting or deleting + archiving user accounts
 
 # Function to print usage statment on error
 usage() {
